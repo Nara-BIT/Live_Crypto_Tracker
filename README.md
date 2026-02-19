@@ -29,4 +29,4 @@ This isn't just a Python script; it's a scalable **Producer-Consumer architectur
 3.  **Launch Dashboard:** `streamlit run dashboard.py`
 
 ---
-*Created by [Your Name]*
+*Created by Nara-BIT*
